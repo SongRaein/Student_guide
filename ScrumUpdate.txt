@@ -1,11 +1,6 @@
-
-
-
 Participated in Initial Discussion for test automation
 Participated in SNOW automation sync up Part-2
 Worked on ATF 
-Srated to design mind map for ITSM-2595
-
 
 Clarify unclear areas of ITSM-2595
 Start to design test Cases 
